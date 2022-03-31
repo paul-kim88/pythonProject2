@@ -1,4 +1,4 @@
-print(1)
+print('hehe')
 import numpy
 import scipy
 import numpy
