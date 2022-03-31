@@ -1,4 +1,4 @@
-print('Hello Sky-Tacker')
+print(1)
 import numpy
 import scipy
-a = numpy.array([1,2])
+import numpy
